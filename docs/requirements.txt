@@ -1,0 +1,7 @@
+sphinx_argparse
+numpy
+matplotlib
+astropy
+lmfit
+argparse
+scipy
